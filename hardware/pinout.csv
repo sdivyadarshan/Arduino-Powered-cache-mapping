@@ -1,0 +1,11 @@
+Signal,Arduino Nano Pin,Notes
+NEXT,D8,Button to GND using INPUT_PULLUP
+CONFIRM,D9,Button to GND using INPUT_PULLUP
+SAVE,D10,Button to GND using INPUT_PULLUP
+CHECK,D11,Button to GND using INPUT_PULLUP
+GREEN_HIT_LED,D12,Series 220 ohm resistor
+RED_MISS_LED,D13,Series 220 ohm resistor
+LCD_SDA,A4,I2C data
+LCD_SCL,A5,I2C clock
+LCD_VCC,5V,Power
+LCD_GND,GND,Ground
